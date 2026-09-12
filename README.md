@@ -2,11 +2,6 @@
 
 Predicting hourly bike rental demand for a city bike-share system using scikit-learn regression models, with a focus on **time-series-correct evaluation** and **cyclical feature encoding**.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange)
-![pandas](https://img.shields.io/badge/pandas-2.x-150458)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## 📌 Overview
